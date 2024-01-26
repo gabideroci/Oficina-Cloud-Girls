@@ -20,16 +20,16 @@ body {
 }
 
 header {
-    background-color: #e8c8ff;
+    background-color: #510c68;
     /* Rosa mais claro para o cabeçalho */
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
 header h1 {
     font-size: 2em;
     margin-bottom: 10px;
-    color: #6f3682;
+    color: #510c68;
     /* Roxo para o título principal */
 }
 
@@ -44,7 +44,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #6f3682;
+    color: #ffffff;
     /* Roxo para os links */
 }
 
@@ -65,7 +65,7 @@ section {
 }
 
 footer {
-    background-color: #6f3682;
+    background-color: #510c68;
     /* Roxo mais escuro para o rodapé */
     color: #fff;
     text-align: center;
@@ -76,14 +76,14 @@ footer {
 }
 
 .banner {
-    background-image: url("../img/gladys-west.png");
+    background-image: url("../img/luiza.jpg");
     background-size: cover;
     background-position: center;
-    height: 80vh;
-    color: white;
-    text-align: center;
+    height: 100vh;
+    color: black;
+    text-align: left;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
 }
